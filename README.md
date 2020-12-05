@@ -16,15 +16,15 @@
  <img width="" height="180" src="./png/캡처5.PNG"></img>
  
 ## ◎ MainActivity에 사용되는 리스트
-## 1)Movie.java code
+## 1)Movie.java 
  <img width="" height="400" src="./png/무비.PNG"></img>
  
- ## 2)MovieList.java code
+ ## 2)MovieList.java 
  <img width="" height="100" src="./png/무비리스트.PNG"></img>
  
- ## 3)MovieListResult.java code
+ ## 3)MovieListResult.java 
  <img width="" height="200" src="./png/무비리스트결과.PNG"></img>
  
- ## 4)MovieAdapter.java code
+ ## 4)MovieAdapter.java 
  <img width="" height="400" src="./png/무비어댑터1.PNG"></img>
  <img width="" height="400" src="./png/무비어댑터2.PNG"></img>
