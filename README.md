@@ -6,16 +6,16 @@
 
  <img width="" height="400" src="./png/실행화면.PNG"></img>
  
-## ◎activity_main_xml code
+## ◎ activity_main_xml code
  <img width="" height="400" src="./png/캡처1.PNG"></img>
  
-## ◎MainActivity.java code 
+## ◎ MainActivity.java code 
 <img width="" height="400" src="./png/캡처2.PNG"></img>
 <img width="" height="400" src="./png/캡처3.PNG"></img>
  <img width="" height="400" src="./png/캡처4.PNG"></img>
  <img width="" height="180" src="./png/캡처5.PNG"></img>
  
-## ◎MainActivity에 사용되는 리스트
+## ◎ MainActivity에 사용되는 리스트
 ## 1)Movie.java code
  <img width="" height="400" src="./png/무비.PNG"></img>
  
